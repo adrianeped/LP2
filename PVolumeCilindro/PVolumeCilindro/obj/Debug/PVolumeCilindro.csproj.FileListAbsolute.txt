@@ -1,0 +1,10 @@
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\bin\Debug\PVolumeCilindro.exe.config
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\bin\Debug\PVolumeCilindro.exe
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\bin\Debug\PVolumeCilindro.pdb
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\obj\Debug\PVolumeCilindro.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\obj\Debug\PVolumeCilindro.Form1.resources
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\obj\Debug\PVolumeCilindro.Properties.Resources.resources
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\obj\Debug\PVolumeCilindro.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\obj\Debug\PVolumeCilindro.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\obj\Debug\PVolumeCilindro.exe
+C:\Users\adria\source\repos\PVolumeCilindro\PVolumeCilindro\obj\Debug\PVolumeCilindro.pdb
