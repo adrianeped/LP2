@@ -1,0 +1,10 @@
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\obj\Debug\ATIVIDADE4.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\obj\Debug\ATIVIDADE4.frmTriangulo.resources
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\obj\Debug\ATIVIDADE4.Properties.Resources.resources
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\obj\Debug\ATIVIDADE4.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\obj\Debug\ATIVIDADE4.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\bin\Debug\ATIVIDADE4.exe.config
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\bin\Debug\ATIVIDADE4.exe
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\bin\Debug\ATIVIDADE4.pdb
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\obj\Debug\ATIVIDADE4.exe
+C:\Users\adria\source\repos\ATIVIDADE4\ATIVIDADE4\obj\Debug\ATIVIDADE4.pdb
