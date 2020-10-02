@@ -1,0 +1,9 @@
+C:\Users\adria\source\repos\Atividade_PesoIdeal\Atividade_PesoIdeal\bin\Debug\Atividade_PesoIdeal.exe.config
+C:\Users\adria\source\repos\Atividade_PesoIdeal\Atividade_PesoIdeal\bin\Debug\Atividade_PesoIdeal.exe
+C:\Users\adria\source\repos\Atividade_PesoIdeal\Atividade_PesoIdeal\bin\Debug\Atividade_PesoIdeal.pdb
+C:\Users\adria\source\repos\Atividade_PesoIdeal\Atividade_PesoIdeal\obj\Debug\Atividade_PesoIdeal.Form1.resources
+C:\Users\adria\source\repos\Atividade_PesoIdeal\Atividade_PesoIdeal\obj\Debug\Atividade_PesoIdeal.Properties.Resources.resources
+C:\Users\adria\source\repos\Atividade_PesoIdeal\Atividade_PesoIdeal\obj\Debug\Atividade_PesoIdeal.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\Atividade_PesoIdeal\Atividade_PesoIdeal\obj\Debug\Atividade_PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Atividade_PesoIdeal\Atividade_PesoIdeal\obj\Debug\Atividade_PesoIdeal.exe
+C:\Users\adria\source\repos\Atividade_PesoIdeal\Atividade_PesoIdeal\obj\Debug\Atividade_PesoIdeal.pdb
