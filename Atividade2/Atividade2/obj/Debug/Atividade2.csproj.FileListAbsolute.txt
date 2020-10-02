@@ -1,0 +1,10 @@
+C:\Users\adria\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.exe.config
+C:\Users\adria\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.exe
+C:\Users\adria\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.pdb
+C:\Users\adria\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.frmCalculadora.resources
+C:\Users\adria\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.Properties.Resources.resources
+C:\Users\adria\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.exe
+C:\Users\adria\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.pdb
