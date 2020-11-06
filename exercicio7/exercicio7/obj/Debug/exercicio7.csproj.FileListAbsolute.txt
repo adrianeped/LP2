@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\exercicio7\exercicio7\bin\Debug\exercicio7.exe.config
+C:\Users\adria\source\repos\exercicio7\exercicio7\bin\Debug\exercicio7.exe
+C:\Users\adria\source\repos\exercicio7\exercicio7\bin\Debug\exercicio7.pdb
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.Form1.resources
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.Form2.resources
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.Form3.resources
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.Form4.resources
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.Form5.resources
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.Properties.Resources.resources
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.exe
+C:\Users\adria\source\repos\exercicio7\exercicio7\obj\Debug\exercicio7.pdb
