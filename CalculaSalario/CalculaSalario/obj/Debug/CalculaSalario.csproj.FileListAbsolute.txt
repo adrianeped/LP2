@@ -1,0 +1,10 @@
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\bin\Debug\CalculaSalario.exe.config
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\bin\Debug\CalculaSalario.exe
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\bin\Debug\CalculaSalario.pdb
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\obj\Debug\CalculaSalario.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\obj\Debug\CalculaSalario.frmCalculaSalario.resources
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\obj\Debug\CalculaSalario.Properties.Resources.resources
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\obj\Debug\CalculaSalario.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\obj\Debug\CalculaSalario.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\obj\Debug\CalculaSalario.exe
+C:\Users\adria\source\repos\CalculaSalario\CalculaSalario\obj\Debug\CalculaSalario.pdb
