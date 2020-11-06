@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\bin\Debug\metodosMenus.exe.config
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\bin\Debug\metodosMenus.exe
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\bin\Debug\metodosMenus.pdb
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.frmPrincipal.resources
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.Properties.Resources.resources
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.exe
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.pdb
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.frmExercicio2.resources
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.frmExercicio3.resources
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.frmExercicio4.resources
+C:\Users\adria\source\repos\metodosMenus\metodosMenus\obj\Debug\metodosMenus.frmExercicio5.resources
