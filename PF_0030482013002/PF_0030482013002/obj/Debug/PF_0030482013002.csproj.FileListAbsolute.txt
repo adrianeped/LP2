@@ -1,0 +1,12 @@
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\bin\Debug\PF_0030482013002.exe.config
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\bin\Debug\PF_0030482013002.exe
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\bin\Debug\PF_0030482013002.pdb
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\obj\Debug\PF_0030482013002.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\obj\Debug\PF_0030482013002.frmCadCidades.resources
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\obj\Debug\PF_0030482013002.Properties.Resources.resources
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\obj\Debug\PF_0030482013002.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\obj\Debug\PF_0030482013002.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\obj\Debug\PF_0030482013002.exe
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\obj\Debug\PF_0030482013002.pdb
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\obj\Debug\PF_0030482013002.frmCidade.resources
+C:\Users\adria\source\repos\PF_0030482013002\PF_0030482013002\obj\Debug\PF_0030482013002.frmSobre.resources
